@@ -1,6 +1,6 @@
-def speak_to_grandma()
-  if speak_to_grandma =="morning gramdma"
-  puts   
+def speak_to_grandma(morning)
+  if morning== morning.upcase
+  return   
 end
 
 
