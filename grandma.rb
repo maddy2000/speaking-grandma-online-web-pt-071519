@@ -1,5 +1,5 @@
 def speak_to_grandma= m
-  if speak_to_grandma =="HUH! SPEAK UP, SUNNY!."
+  if speak_to_grandma =="morning gramdma"
   puts   
 end
 
