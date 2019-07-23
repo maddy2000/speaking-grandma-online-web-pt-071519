@@ -1,4 +1,4 @@
-def speak_to_grandma= 
+def speak_to_grandma()
   if speak_to_grandma =="morning gramdma"
   puts   
 end
