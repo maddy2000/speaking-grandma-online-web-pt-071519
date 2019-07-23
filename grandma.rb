@@ -1,7 +1,6 @@
 def speak_to_grandma="hi"
-  puts 
-  "HUH! SPEAK UP, SUNNY!."
-  if 
+  if speak_to_grandma =="HUH! SPEAK UP, SUNNY!."
+  
 
 
 
